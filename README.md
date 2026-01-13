@@ -1,12 +1,10 @@
-# 🍽️ Rag-Chatbot-find-good-restaurant
-**Streamlit 기반 RAG 맛집 판별 AI Chatbot**
+# Multi-agnet-with-nickelscm-
+
 
 ---
 
 ## 🖥️ 프로젝트 소개
-본 프로젝트는 사용자가 입력한 **가게명/후기 정보**를 바탕으로  
-**RAG(Retrieval-Augmented Generation)** 기반으로 데이터를 검색하고,  
-LLM이 근거 기반으로 맛집 여부를 판단해주는 **맛집 판별 AI 챗봇**입니다.
+본 프로젝트는 니켈 가격 변동성을 반영하여 머신러닝을 통해 구매 타이밍을 예측하고, 가격에 따른 SCM 의사결정을 지원하는 멀티에이전트 기반 RAG 시스템입니다. 
 
 ---
 
@@ -22,4 +20,8 @@ LLM이 근거 기반으로 맛집 여부를 판단해주는 **맛집 판별 AI �
 
 
 ##🏆 AI캡스톤디자인 최우수상(1위) 
+
+
+
+<img width="1500" height="861" alt="image" src="https://github.com/user-attachments/assets/95eed977-37dd-4c5f-970c-6883bb462bde" />
 
