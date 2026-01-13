@@ -85,7 +85,7 @@
 ## 📌 주요 기능
 
 ### 01. Streamlit UI (app.py)
-
+[상세보기 · WIKI](https://github.com/chrochet/Multi-agnet-with-nickelscm-/wiki/Streamlit-UI)
 * 사용자 입력 기반(재고/수요/리드타임) 분석 
 * 멀티페이지로 에이전트별 기능 제공(P1~P7)
 * 
@@ -93,14 +93,14 @@
 ---
 
 ### 02. P8: Agent Master (멀티에이전트 오케스트레이터)
-
+[상세보기 · WIKI](https://github.com/chrochet/Multi-agnet-with-nickelscm-/wiki/P8-multi%E2%80%90agent-router)
 * 질문 의도 분류 → 관련 에이전트 라우팅
 * P1-P7 결과를 통합해 **최종 의사결정 리포트**(P8)로 도출 
 
 ---
 
 ### 03. P2: Purchase Agent (ML + 니켈예측 + RAG)
-
+[상세보기 · WIKI](https://github.com/chrochet/Multi-agnet-with-nickelscm-/wiki/P2-Purchase-Agent)
 * 니켈 가격 예측(ML) 기반 구매 타이밍/수량 추천
 * 뉴스/기사 RAG로 시장 이슈 반영, 근거 요약 제공
 * (옵션) SHAP 기반 XAI 적용
@@ -108,14 +108,14 @@
 ---
 
 ### 04. P3: Customs Agent (Tool Call + RAG)
-
+[상세보기 · WIKI](https://github.com/chrochet/Multi-agnet-with-nickelscm-/wiki/P3-Customs-Agent)
 * HS Code/관세/통관 규정 질의 대응
 * Tool Call(API) + 문서 RAG로 근거 기반 답변 제공
 
 ---
 
 ### 05. Support Agents (P1 ~ P7)
-
+[상세보기 · WIKI](https://github.com/chrochet/Multi-agnet-with-nickelscm-/wiki/SCM-Support-Agents(P1-P4-P5-P6-P7))
 * P1 Plan / P4 Logistics / P5 Quality / P6 Finance / P7 Inventory 
 * 핵심 기능을 보완하는 확장형 보조 모듈
 
